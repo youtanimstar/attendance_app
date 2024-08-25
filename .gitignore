@@ -1,0 +1,38 @@
+# Flutter/Dart/Pub related
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+.dart_tool/flutter_build/
+.dart_tool/extension_discovery/devtools.json
+.dart_tool/flutter_build/54ba34b3e91d1efa48b2601fe470ce9a/program.dill
+.dart_tool/flutter_build/54ba34b3e91d1efa48b2601fe470ce9a/app.dill
+.dart_tool/flutter_build/54ba34b3e91d1efa48b2601fe470ce9a/.filecache
+android/.gradle/7.6.3/executionHistory/executionHistory.bin
+android/.gradle/7.6.3/executionHistory/executionHistory.lock
+android/.gradle/7.6.3/fileHashes/fileHashes.bin
+android/.gradle/7.6.3/fileHashes/fileHashes.lock
+android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+build/cache.dill.track.dill
+build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin
+build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/kernel_blob.bin.jar
+build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin
+build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt
+build/app/outputs/apk/debug/app-debug.apk
+build/app/outputs/flutter-apk/app-debug.apk
+build/app/outputs/flutter-apk/app-debug.apk.sha1
+
+windows/flutter/ephemeral/
